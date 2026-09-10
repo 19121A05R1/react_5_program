@@ -5,6 +5,12 @@ function App() {
       <h1>Welcome to My React App</h1>
       <p>This is a simple React application.</p>
       <button>Click Me</button>
+      <form>
+        <label>
+          name:
+        </label>
+        <input type="text" />
+      </form>
     </div>
   );
 }
